@@ -1,0 +1,6 @@
+category: Text
+requires: libgcc1 libxml2
+sdesc: "Converts XML/HTML to and from line-oriented text"
+ldesc: "These tools are used to convert XML and HTML to and from a 
+line-oriented format more amenable to processing by classic Unix pipeline 
+processing tools, like grep, sed, awk, cut, shell scripts, and so forth."
