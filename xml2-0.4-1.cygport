@@ -1,7 +1,0 @@
-DESCRIPTION="Converts XML/HTML to and from line-oriented text"
-HOMEPAGE="http://dan.egnor.name/xml2/"
-SRC_URI="http://download.ofb.net/gale/${P}.tar.gz"
-PATCH_URI="
-	http://patch-tracker.debian.org/patch/series/dl/xml2/0.4-3/01_use_libxml2_instead_of_libxml.diff
-	http://patch-tracker.debian.org/patch/series/dl/xml2/0.4-3/02_fix_segfault.diff
-"
