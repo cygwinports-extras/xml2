@@ -1,0 +1,10 @@
+NAME="xml2"
+VERSION=0.5
+RELEASE=1
+CATEGORY="Text"
+SUMMARY="Converts XML/HTML to and from line-oriented text"
+DESCRIPTION="These tools are used to convert XML and HTML to and from a
+line-oriented format more amenable to processing by classic Unix pipeline
+processing tools, like grep, sed, awk, cut, shell scripts, and so forth."
+HOMEPAGE="http://dan.egnor.name/xml2/"
+SRC_URI="http://download.ofb.net/gale/xml2-${VERSION}.tar.gz"
